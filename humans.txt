@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Author: Juanjo Llamas (juanjo.llamas.caeiro [at] gmail.com)
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5
+    CSS3
+    html5boilerplate
+    BootStrap
+    Font-Awesome
+    Humanstxt
+    Modernizr
+    Google analytics
+    jQuery
+    Template sticky-footer-navbar
