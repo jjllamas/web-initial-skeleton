@@ -1,4 +1,4 @@
-web-initial-skeleton-
+web-initial-skeleton
 =====================
 
 Initial Skeleton Project for web development. 
